@@ -27,4 +27,9 @@ index.js
 }
 npm link module使bin起作用
 
+3、外部开源模块（先注册账号）
+npm login // 登陆 
+npm publish // 发布
+
 参考：https://www.jianshu.com/p/aaa7db89a5b2
+https://www.jianshu.com/p/76a5b7105cb7
